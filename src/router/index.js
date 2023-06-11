@@ -9,7 +9,7 @@ import Ingredients from '../views/Ingredients.vue'
 
 const routes = [
   {
-    path: "/",
+    path: "/meals/",
     component: DefaultLayout,
     children: [
       {
